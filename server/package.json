@@ -1,0 +1,27 @@
+{
+  "name": "MEAN-Basic-Login-Angular4",
+  "description": "Formulario básico de inicio de sesión usando el stack MEAN con Angular4",
+  "author": "Agustín David Cruz González",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ADavidCruzG/MEAN-Basic-Login-Angular4"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "morgan": "~1.8.1",
+    "mongoose": "~4.10.5",
+    "nodemon": "~1.11.0",
+    "open": "~0.0.5",
+    "randomstring": "~1.1.5",
+    "serve-favicon": "~2.4.2"
+  }
+}
